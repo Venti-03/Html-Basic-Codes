@@ -1,2 +1,2 @@
 # Html-Basic-Codes
-Html Codes for everyone to use
+Basic html structure and explanation
