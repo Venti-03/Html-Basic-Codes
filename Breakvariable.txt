@@ -1,0 +1,5 @@
+the break variable is what makes the space between a sentence example: <p>hello
+                                                                    <br>
+                                                                    </p> 
+                                                                    
+                                                                    
